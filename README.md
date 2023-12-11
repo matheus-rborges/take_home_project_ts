@@ -18,7 +18,7 @@ For this project, the chosen database was SQLite once the propose was just for a
 | answer       | text      | The correct answer for this question   |
 | alternatives | json      | The alternatives for this question     |
 
-PS: All the questions here was treated as multiple choice questions.
+PS: All the questions here were treated as multiple choice questions.
 
 ### Data source
 
