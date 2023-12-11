@@ -1,6 +1,6 @@
 # Take home project
 
-The current project is part of selection process for a Software Engineer position on SindriaAi startup.
+The current project is part of a selection process for a Software Engineer position on SindriaAi startup.
 
 The description of the task is accessible [here](https://sindriaai.notion.site/Take-home-project-b8bda5098d744ce9a60d48e1fd591432)
 
